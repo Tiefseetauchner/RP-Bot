@@ -1,2 +1,2 @@
 # RP-Bot
-This Bot, which should ade in RPs
+A Bot, which should ade in RPs
